@@ -5,4 +5,4 @@ What I wanted to accomplish was a sort of basic replication of the statisical me
 
 After doing some EDA, data cleaning, and applying a simple regression, I found sulfate and ammonium nitrate particulate matter to be the most contributing factors to age-adjusted circulatory/respiratory mortality across US counties. This is merely an association based on the variables used. Of course, there is always an issue of omitted variable bias so I included all confounders used by the researchers to control for them. My main recommendation/conclusion is to gather geographic data regarding the main sources for these particulate matter variables and assign a score for each county. What we would be looking to find is a relationship between those high scores and the circulatory/respiratory deaths. There can also be some reevaluation of the confounders and covariates due to multicollinearity issues. 
 
-Note: Forgot to commit in the beginning and lost track of time:(
+**Note**: Forgot to commit in the beginning and lost track of time:(
